@@ -15,9 +15,9 @@ public Employee(String fN, String lN)
 	
 public String toString() 
 {
-	return(firstName + "   " + lastName);
+	return(firstName + " " + lastName);
 }
 
-abstract double pay(double period);
+public abstract double pay(double period);
 
 }
