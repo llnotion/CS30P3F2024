@@ -1,4 +1,13 @@
 package Masteries.Vehicle;
+/* 
+ * Program: WordCount.java			Date: Oct 22, 2024
+ * Purpose: Act as a tester for vehicle type and variables 
+ * 
+ * Author: Grayson Ardron
+ * School: CHHS
+ * Course: Computer Science CS30
+ */
+
 
 	public class VehicleTest {
 	    public static void main(String[] args) {

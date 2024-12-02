@@ -1,4 +1,13 @@
 package Masteries.Vehicle;
+/* 
+ * Program: WordCount.java			Date: oct 22, 2024
+ * Purpose:
+ * 
+ * Author: Grayson Ardron
+ * School: CHHS
+ * Course: Computer Science CS30
+ */
+
 
 
 	class Car extends Vehicle {

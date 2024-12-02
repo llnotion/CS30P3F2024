@@ -1,4 +1,13 @@
 package Masteries.Vehicle;
+/* 
+ * Program: WordCount.java			Date: Oct 22, 2024
+ * Purpose:
+ * 
+ * Author: Grayson Ardron
+ * School: CHHS
+ * Course: Computer Science CS30
+ */
+
 
 class Truck extends Vehicle {
     private double bedLength;
