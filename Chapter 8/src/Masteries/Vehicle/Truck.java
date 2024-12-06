@@ -1,7 +1,8 @@
 package Masteries.Vehicle;
+
 /* 
- * Program: WordCount.java			Date: Oct 22, 2024
- * Purpose:
+ * Program: Truck.java			Date: Oct 19, 2024
+ * Purpose: Create bed length variable and outline the vehicle with needed parameters.
  * 
  * Author: Grayson Ardron
  * School: CHHS

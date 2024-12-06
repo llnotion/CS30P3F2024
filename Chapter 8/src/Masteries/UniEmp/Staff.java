@@ -1,5 +1,15 @@
 package Masteries.UniEmp;
 
+/* 
+ * Program: Staff.java			Date: Oct 15, 2024
+ * Purpose: return/manipulate job title
+ * 
+ * Author: Grayson Ardron
+ * School: CHHS
+ * Course: Computer Science CS30
+ */
+
+
 public class Staff extends UEmployee {
 	
 	private String jobTitle;
@@ -23,7 +33,7 @@ public class Staff extends UEmployee {
 	
 	public String toString() 
 	{
-		return("Members: " + jobTitle);
+		return(super.toString() + " Members: " + jobTitle);
 	}
 	
 	

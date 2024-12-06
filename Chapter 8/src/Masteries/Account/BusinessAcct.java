@@ -1,5 +1,15 @@
 package Masteries.Account;
 
+/* 
+ * Program: BusinessAcct.java			Date: Oct 22, 2024
+ * Purpose: Create the outline of a business account
+ * 
+ * Author: Grayson Ardron
+ * School: CHHS
+ * Course: Computer Science CS30
+ */
+
+
 public class BusinessAcct extends Account {
     private static final double MIN_BALANCE = 500.0;
     private static final double PENALTY = 10.0;

@@ -1,5 +1,15 @@
 package Masteries.Account;
 
+/* 
+ * Program: PersonalAcct.java			Date: Oct 22, 2024
+ * Purpose: Create the outline for a personal account
+ * 
+ * Author: Grayson Ardron
+ * School: CHHS
+ * Course: Computer Science CS30
+ */
+
+
 public class PersonalAcct extends Account {
 
     private static final double MIN_BALANCE = 100.0;

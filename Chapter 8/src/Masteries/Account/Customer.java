@@ -1,4 +1,13 @@
 package Masteries.Account;
+/* 
+ * Program: Customer.java			Date: Oct 22, 2024
+ * Purpose: outline the data needed for an account (Inputs)
+ * 
+ * Author: Grayson Ardron
+ * School: CHHS
+ * Course: Computer Science CS30
+ */
+
 
 import java.util.Scanner; 
 

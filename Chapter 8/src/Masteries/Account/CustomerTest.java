@@ -1,5 +1,15 @@
 package Masteries.Account;
 
+/* 
+ * Program: CustomerTest.java			Date: Oct 22, 2024
+ * Purpose: Test the account data output 
+ * 
+ * Author: Grayson Ardron
+ * School: CHHS
+ * Course: Computer Science CS30
+ */
+
+
 
 
 public class CustomerTest {
@@ -17,10 +27,8 @@ public class CustomerTest {
 		 System.out.println(bucct);
 		 System.out.println(pucct);
 		 
-		 
-		 
-		 
-		 
+		
+	
 		 
 		 
 		 

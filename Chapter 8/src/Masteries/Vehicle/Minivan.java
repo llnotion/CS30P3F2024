@@ -1,7 +1,8 @@
 package Masteries.Vehicle;
+
 /* 
- * Program: WordCount.java			Date: oct 22, 2024
- * Purpose:
+ * Program: Minivan.java			Date: Oct 19, 2024
+ * Purpose: Create sliding door variable and outline the vehicle with needed parameters.
  * 
  * Author: Grayson Ardron
  * School: CHHS

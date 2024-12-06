@@ -1,7 +1,8 @@
 package Masteries.Vehicle;
+
 /* 
- * Program: WordCount.java			Date: Oct 22, 2024
- * Purpose: Act as a tester for vehicle type and variables 
+ * Program: VehicleTest.java			Date: Oct 19, 2024
+ * Purpose: Test the vehicle mastery
  * 
  * Author: Grayson Ardron
  * School: CHHS

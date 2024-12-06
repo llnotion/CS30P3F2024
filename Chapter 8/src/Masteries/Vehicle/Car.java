@@ -1,7 +1,8 @@
 package Masteries.Vehicle;
+
 /* 
- * Program: WordCount.java			Date: oct 22, 2024
- * Purpose:
+ * Program: Car.java			Date: Oct 19, 2024
+ * Purpose: Create Trunk size variable and outline the vehicle with needed parameters.
  * 
  * Author: Grayson Ardron
  * School: CHHS

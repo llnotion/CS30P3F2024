@@ -1,7 +1,7 @@
 package Masteries.Vehicle;
 /* 
- * Program: WordCount.java			Date: Oct 22, 2024
- * Purpose:
+ * Program: Vehicle.java			Date: Oct 19, 2024
+ * Purpose: Declare variables and outline goal
  * 
  * Author: Grayson Ardron
  * School: CHHS
@@ -68,6 +68,61 @@ package Masteries.Vehicle;
 	    	return veh;
 	    }
 	}
+	
+	/*
+	 * Screen Dump
+	 * 
+	 * 1: 
+Car
+25.0
+35.0
+5
+15.0
+
+Fuel economy city 25.0
+Fuel economy hwy 35.0
+Seating Capacity 5
+Cargo Volume 15.0
+Trunk Size: 12.0
+Fuel economy city 15.0
+Fuel economy hwy 20.0
+Seating Capacity 3
+Cargo Volume 50.0
+Bed Length: 8.0
+Fuel economy city 20.0
+Fuel economy hwy 28.0
+Seating Capacity 7
+Cargo Volume 30.0
+Has sliding doors: true
+
+
+	 * 
+	 * 2:
+	Car
+25.0
+35.0
+5
+15.0
+
+Fuel economy city 25.0
+Fuel economy hwy 35.0
+Seating Capacity 5
+Cargo Volume 15.0
+Trunk Size: 12.0
+Fuel economy city 15.0
+Fuel economy hwy 20.0
+Seating Capacity 3
+Cargo Volume 50.0
+Bed Length: 8.0
+Fuel economy city 20.0
+Fuel economy hwy 28.0
+Seating Capacity 7
+Cargo Volume 30.0
+Has sliding doors: true
+
+	 * 
+	 *
+	 */
 
 	
 

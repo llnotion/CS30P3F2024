@@ -1,5 +1,15 @@
 package Masteries.Account;
 
+/* 
+ * Program: Account.java			Date: Oct 22, 2024
+ * Purpose: Initialize data and create empty acc with an ID
+ * 
+ * Author: Grayson Ardron
+ * School: CHHS
+ * Course: Computer Science CS30
+ */
+
+
  
 import java.text.NumberFormat;
 
@@ -127,3 +137,33 @@ public class Account {
 	 	return(accountString);
 	}
 }
+
+
+/*
+ * Screen Dump
+ * 
+ * 1: 
+ * 	jbad
+john bad taco Calgary AB T2E 0Z6
+Current balance is $35.00
+sBrain
+suck Brain beef Hague NE BTR 80A
+Current balance is $4,000.00
+
+
+ * 
+ * 2:
+ * jbad
+john bad taco Calgary AB T2E 0Z6
+Current balance is $35.00
+sBrain
+suck Brain beef Hague NE BTR 80A
+Current balance is $4,000.00
+
+
+ * 
+ *
+ */
+
+
+
