@@ -130,8 +130,7 @@ import com.phidget22.*;
 	    
 	        
 	        sonar.setDataInterval(300);
-	        
-	        while (true) {
+	
 
 	            System.out.println("Distance: " + sonar.getDistance() + " mm");
 	            
@@ -165,12 +164,7 @@ import com.phidget22.*;
 	                
 	              
 	            }
-	            else {
-	               
-	            }
-
-	            break; 
-	        } 
+	           
 	    }
 	}
 	  
