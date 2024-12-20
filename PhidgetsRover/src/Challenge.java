@@ -142,8 +142,8 @@ import com.phidget22.*;
 	              //Wait for 1 second
 	                Thread.sleep(2000);
 	                //Turn in one direction
-	                leftMotors.setTargetVelocity(1);
-	                rightMotors.setTargetVelocity(-1);
+	                leftMotors.setTargetVelocity(-1);
+	                rightMotors.setTargetVelocity(1);
 
 	                //Wait for 2 second
 	                Thread.sleep(800);
